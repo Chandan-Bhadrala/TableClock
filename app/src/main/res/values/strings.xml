@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TableClock</string>
+    <string name="notes">Notes</string>
+    <string name="quotes">Quotes</string>
+    <string name="settings_button">Settings Button</string>
+
+</resources>
